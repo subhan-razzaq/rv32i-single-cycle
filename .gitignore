@@ -1,0 +1,10 @@
+vivado/
+.Xil/
+xsim.dir/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+webtalk*
+usage_statistics*
